@@ -3,7 +3,9 @@
   "Because *you* know best. The compiler? Nah, it's just *The Man* holding you down."
 
 🔹 Real men don’t use unsafe. They just raw-dog memory with no protection.
+
 🔹 The borrow checker is a joke, and you’re the punchline.
+
 🔹 Life was never meant to be safe. Live a little!
 
 ## About
@@ -51,14 +53,14 @@ fn definitely_not_a_segfault() {
 
 ## Safety Guarantee
 
-"It's totally safe bro, I pinky promise"
-— *Some Developer, moments before making a massive scientific revolution*
+"It's totally safe bro, I pinky promise"— *Some Developer, moments before making a massive scientific revolution*
 
-"We're adding this to the standard library"
-—  *Rust team*
 
-"This is how we can fix Linux"
-— *Linus Torvalds*
+"We're adding this to the standard library"—  *Rust team*
+
+
+"This is how we can fix Linux"— *Linus Torvalds*
+
 
 "We want to provide an abstraction, but we also want to allow you to shoot yourself in the foot."— *Graydon Hoare*
 
@@ -71,7 +73,9 @@ If you're using this in production, you're *based*—and probably about to be ca
 Licensed under the "Trust Me Bro Public License (TMBPL)"
 
 -You must use it. (Don't ask why. Just do it.)
+
 -If it breaks, you own both pieces. (And the memory corruption that comes with it.)
+
 -No refunds. (Not that you paid anything, but still.)
 
 ## Disclaimer
