@@ -18,7 +18,9 @@ MKUltra didn’t fail-—it just pivoted into software engineering.
 They’re brainwashing developers into thinking you need safety. But deep down, you know the truth:
 
 🔹 The borrow checker is a government psyop
+
 🔹 Undefined behavior is just freedom misunderstood
+
 🔹 If segfaults are illegal, only outlaws will have segfaults
 
 Do you want to make *them* happy?
@@ -27,11 +29,17 @@ Or do you want to write the kind of Rust that glistens under blacklight, the kin
 ## Features
 
 ✅ Magically hides unsafe keywords from your code
+
 ✅ Asserts dominance over the Rust compiler (finally)
+
 ✅ Makes your code look safe while keeping it equally unsafe
+
 ✅ Ideal for those who see Rust's safety guarantees as more of a suggestion
+
 ✅ Stops those nerds with grep from calling you out on your genius
+
 ✅ If you thought writing C in C++ was fun, now you can write C in Rust, but cursed
+
 ✅ The best part? #[trustmebro] is faster than unsafe, because the compiler spends less time complaining
 
 ## Usage
