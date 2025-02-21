@@ -7,7 +7,7 @@ description = "A Rust macro that magically turns unsafe code into ‘totally saf
 license-file = "LICENSE"
 documentation = "https://docs.rs/trustmebro"
 repository = "https://github.com/alexcu2718/trustmebro"
-keywords = ["unsafe", "macros", "trust", "chaos", "bravery", "compiler dominance"]
+keywords = ["unsafe", "macros", "trust", "bravery", "compiler-dominance"]
 categories = ["macros", "unsafe", "you-should-not-use-this"]
 
 [dependencies]
