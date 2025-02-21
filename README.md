@@ -63,12 +63,9 @@ fn definitely_not_a_segfault() {
 
 "It's totally safe bro, I pinky promise"— *Some Developer, moments before making a massive scientific revolution*
 
-
 "We're adding this to the standard library"—  *Rust team*
 
-
 "This is how we can fix Linux"— *Linus Torvalds*
-
 
 "We want to provide an abstraction, but we also want to allow you to shoot yourself in the foot."— *Graydon Hoare*
 
