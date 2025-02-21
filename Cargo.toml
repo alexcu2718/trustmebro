@@ -8,7 +8,7 @@ license-file = "LICENSE"
 documentation = "https://docs.rs/trustmebro"
 repository = "https://github.com/alexcu2718/trustmebro"
 keywords = ["unsafe", "macros", "trust", "bravery", "compiler-dominance"]
-categories = ["macros", "unsafe", "you-should-not-use-this"]
+categories = ["performance","experimental","fun"]
 
 [dependencies]
 proc-macro2 = "1.0.93"
