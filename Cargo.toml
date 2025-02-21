@@ -1,0 +1,13 @@
+[package]
+name = "trustmebro"
+version = "0.1.0"
+edition = "2024"
+
+
+
+[dependencies]
+proc-macro2 = "1.0.93"
+quote = "1.0.38"
+syn = { version = "2.0", features = ["full"] }
+[lib]
+proc-macro = true
