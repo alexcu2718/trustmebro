@@ -1,7 +1,6 @@
 [package]
 name = "trustmebro"
-version = "1.0.0"
-email="alexcu@tutanota.com"
+version = "1.0.1"
 rust-version = "1.74.1"
 edition = "2021"
 description = "A Rust macro that magically turns unsafe code into ‘totally safe, bro’ with no consequences. Ideal for those who want to assert dominance over the compiler and live on the edge of catastrophe."

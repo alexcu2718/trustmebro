@@ -8,6 +8,9 @@ fn definitely_not_a_segfault() {
     println!("You'll never see this message");
 }
 
+
+
+
 fn main() {
     definitely_not_a_segfault();
 }
