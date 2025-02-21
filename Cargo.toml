@@ -1,6 +1,7 @@
 [package]
 name = "trustmebro"
 version = "1.0.0"
+email="alexcu@tutanota.com"
 rust-version = "1.74.1"
 edition = "2021"
 description = "A Rust macro that magically turns unsafe code into ‘totally safe, bro’ with no consequences. Ideal for those who want to assert dominance over the compiler and live on the edge of catastrophe."
@@ -8,7 +9,9 @@ license-file = "LICENSE"
 documentation = "https://docs.rs/trustmebro"
 repository = "https://github.com/alexcu2718/trustmebro"
 keywords = ["unsafe", "macros", "trust", "bravery", "compiler-dominance"]
-categories = ["performance","experimental","fun"]
+categories = ["rust-patterns", "development-tools"]
+
+
 
 [dependencies]
 proc-macro2 = "1.0.93"
